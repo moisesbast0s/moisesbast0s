@@ -22,5 +22,10 @@
 │ Push         moisesbast0s/jogocompgraf  │
 │ Push         moisesbast0s/jogocompgraf  │
 └─────────────────────────────────────────┘
+
+
 ```
+## Linguagens mais usadas
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moisesbast0s&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moisesbast0s&theme=dracula)
 <!-- END_SECTION:style -->
