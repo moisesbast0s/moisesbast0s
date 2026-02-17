@@ -1,16 +1,26 @@
-## Hi there 👋
+<!-- START_SECTION:style -->
+```text
+     _    _                 _     __  __      
+    / \  | |__   ___  _   _| |_  |  \/  | ___ 
+   / _ \ | '_ \ / _ \| | | | __| | |\/| |/ _ \
+  / ___ \| |_) | (_) | |_| | |_  | |  | |  __/
+ /_/   \_\_.__/ \___/ \__,_|\__| |_|  |_|\___|
 
-<!--
-**moisesbast0s/moisesbast0s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+┌ Languages ────────────────────────── ┐
+│ C++              ███████░░░░░  58.1% │
+│ Jupyter Notebook ███░░░░░░░░░  21.6% │
+│ Python           █░░░░░░░░░░░  11.1% │
+│ JavaScript       ░░░░░░░░░░░░   3.6% │
+│ CSS              ░░░░░░░░░░░░   2.0% │
+└──────────────────────────────────────┘
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+┌ Activity ────────────────────────────── ┐  ┌ Stats ──── ┐
+│ Push         moisesbast0s/jogocompgraf  │  │ Commits 55 │
+│ Push         moisesbast0s/shadow-blades │  └────────────┘
+│ IssueComment moisesbast0s/shadow-blades │
+│ Push         moisesbast0s/jogocompgraf  │
+│ Push         moisesbast0s/jogocompgraf  │
+└─────────────────────────────────────────┘
+```
+<!-- END_SECTION:style -->
